@@ -17,8 +17,8 @@
   "devDependencies": {
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-commonjs": "^26.0.3",
-    "@tiptap/core": "^2.0.0",
-    "@tiptap/pm": "^2.0.0",
+    "@tiptap/core": "^3.0.7",
+    "@tiptap/pm": "^3.0.7",
     "@types/evaluatex": "^2.2.4",
     "@types/jest": "^29.5.12",
     "@types/katex": "^0.16.7",
